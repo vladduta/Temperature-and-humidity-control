@@ -33,3 +33,4 @@ Each of the two values (temperature and humidity) will be alternately displayed 
 The system must provide feedback to the user to confirm the receipt and implementation of the new settings via serial communication
 
 This feedback is implemented throught a temporary change in the display
+![SystemConections](https://github.com/user-attachments/assets/2327c890-4be2-40f6-98a7-4533a4f5d91f)
